@@ -1,0 +1,4 @@
+PyQt6
+sys
+sqlite3
+random
